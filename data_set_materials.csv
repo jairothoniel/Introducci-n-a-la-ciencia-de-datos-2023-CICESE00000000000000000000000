@@ -1,0 +1,14 @@
+material,phase,primitive_lattice_cell,formation_energy,band_gap,type_gap,janus_material,experimentally_observed
+MoS2,2D,hexagonal,-1.06,1.64,direct,no,yes
+MoSe2,2D,hexagonal,-0.68,1.46,direct,no,no
+MoTe2,2D,hexagonal,-0.27,0.66,direct,no,no
+WS2,2D,hexagonal,-0.88,3.18,direct,no,yes
+WSe2,2D,hexagonal,-0.59,3.17,direct,no,no
+WTe2,2D,hexagonal,-0.08,0.81,direct,no,yes
+MoSO,2D,tetragonal,-0.34,1.11,indirect,yes,no
+MoSeO,2D,hexagonal,-0.67,0.81,indirect,yes,no
+WSO,2D,hexagonal,-0.86,0.47,indirect,yes,no
+WSeO,bulk,cubic,-1.03,1.28,indirect,no,no
+WTeO,bulk,hexagonal,-0.64,0.71,indirect,no,no
+MoSSe,bulk,trigonal,-0.85,1.2,indirect,no,no
+MoTeO,bulk,monoclinic,-1.66,2.59,indirect,no,yes
